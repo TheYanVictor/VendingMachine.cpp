@@ -1,4 +1,5 @@
 //Vending Machine
+/*Esse código simula uma Vending Machine, o usuário interage de acordo com as instruções. Existem dois modos possíveis, o Usuário e o Administrador*/
 
 //Bibliotecas
 #include <iostream>
